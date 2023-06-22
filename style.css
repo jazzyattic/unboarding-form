@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    color: brown;
+    font-size: large;
+    text-align: center;
+    border: 2px solid blue;
+}
+.number{
+    align-items: flex-start;
+}
